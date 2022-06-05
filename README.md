@@ -14,4 +14,4 @@ It is a small web application for academic use that shows work with Google APIs.
 ###### & npm install --save-dev package.json 
 ##### 5- To serve this app you have two options:
 ###### $ npn run build:dev // run the app with dev server
-###### $ npm run build:pro // run the app for production servers
+###### $ npm run build:pro // run the app for production servers.
